@@ -4,3 +4,12 @@
   <li>VSCode Main Configs</li>
   <li>Plugins Configs</li>
 </ul>
+<hr>
+<h3>Pay Attetion here</h3>
+<p>If you're a Junior, this file won't go work if just save and just start to use</p>
+<p>To make this file work, here what you gotta do</p>
+<ul>
+  <li>Save files</li>
+  <li>Rename "settings.js" to "settings.json"</li>
+</ul>
+<p>After this, your VSCode is read to use</p>
