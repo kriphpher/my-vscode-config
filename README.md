@@ -15,3 +15,10 @@
 <p>After this, your VSCode is read to use</p>
 <hr>
 <h3>New Updates (2024/04/09)</h3>
+  <p>There are some new features that you guys'll need to install on VSCode</p>
+  <ul>
+    <li>GitHub.vscode-pull-request-github</li>
+    <li>eamodio.gitlens</li>
+    <li>ms-vscode.live-server</li>
+  </ul>
+<hr>
